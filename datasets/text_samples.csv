@@ -1,0 +1,10 @@
+id,text,label
+1,I love artificial intelligence,positive
+2,Machine learning is fascinating,positive
+3,I enjoy learning new AI concepts,positive
+4,Debugging code is frustrating,negative
+5,I hate software bugs,negative
+6,Errors make programming stressful,negative
+7,AI will change the future,neutral
+8,Technology is evolving rapidly,neutral
+9,Learning Python is useful,neutral
